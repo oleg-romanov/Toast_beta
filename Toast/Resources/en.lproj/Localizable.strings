@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Birthdays
+
+  Created by Олег Романов on 22.08.2020.
+  Copyright © 2020 Oleg Romanov. All rights reserved.
+*/
+
+
+
+PersonsModel.Category = "Friends";
+
+
+Onboarding.Next = "Next";
+Onboarding.Skip = "Skip";
+Onboarding.Start = "Start";
+
+
+Persons.Title = "People";
+Persons.Done = "Done";
+Persons.Message = "added to the list";
+
+
+AddPerson.Add = "Добавить";
+AddPerson.Done = "Done";
