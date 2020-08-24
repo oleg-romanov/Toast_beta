@@ -1,6 +1,6 @@
 //
 //  Button.swift
-//  Birthdays
+//  Toast
 //
 //  Created by Олег Романов on 26.07.2020.
 //  Copyright © 2020 Oleg Romanov. All rights reserved.

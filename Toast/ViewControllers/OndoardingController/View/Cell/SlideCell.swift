@@ -1,6 +1,6 @@
 //
 //  SlideCell.swift
-//  Birthdays
+//  Toast
 //
 //  Created by Олег Романов on 03.08.2020.
 //  Copyright © 2020 Oleg Romanov. All rights reserved.
